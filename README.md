@@ -1,12 +1,102 @@
-# React + Vite
+# 🚀 ADmyBRAND AI Suite – Modern AI SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **ADmyBRAND AI Suite** — a visually stunning, fully responsive SaaS landing page built for a fictional AI marketing platform. This project is a submission for the **AI Coder Hiring Challenge – Task B**, and focuses on building a **component-driven**, **2025-style** UI using modern web development best practices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Project Overview
 
-## Expanding the ESLint configuration
+> **Objective:** Build a professional-grade landing page for ADmyBRAND's AI-powered marketing suite.  
+> **Focus:** Visual design, component reuse, animations, responsiveness, and AI-assisted development.  
+> **Stack:** React, Tailwind CSS, Framer Motion  
+> **Bonus:** Interactive Pricing Calculator, Contact Form, Animations, AI Usage Optimization
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔗 Live Demo
+
+- 🌐 **Deployed Link**: [https://landing-page-a-dmy-brand.vercel.app/](https://landing-page-a-dmy-brand.vercel.app/) 
+- 💾 **GitHub Repo**: [https://github.com/SatynarayanMaurya/Landing-Page-ADmyBRAND](https://github.com/SatynarayanMaurya/Landing-Page-ADmyBRAND)
+
+---
+
+## ✨ Features
+
+### 🧩 Core Sections
+- ✅ Hero Section with video and animated CTA
+- ✅ Features grid (6+ cards, icons, descriptions)
+- ✅ Pricing Section with 3-tier plan cards
+- ✅ Interactive Pricing Calculator (dynamic cost based on team size & plan)
+- ✅ Testimonials Carousel (Framer Motion / Swiper)
+- ✅ FAQ Section with collapsible questions
+- ✅ Contact Us Form with input validation and animated feedback
+- ✅ Footer with links, social media, and contact info
+
+### 🎨 UI/UX Excellence
+- 🚀 Glassmorphism effects and floating backgrounds
+- 🎯 Smooth scroll-triggered animations (Framer Motion)
+- 🪄 Clean modern typography with hierarchy
+- 📱 Fully responsive on mobile, tablet, and desktop
+- 🎞️ Motion effects and entrance transitions on all sections
+
+---
+
+## ⚙️ Technologies Used
+
+| Tool / Library         | Purpose                                |
+|------------------------|----------------------------------------|
+| **React**              | Component-based UI                     |
+| **Tailwind CSS**       | Utility-first modern styling           |
+| **Framer Motion**      | Animations and smooth transitions      |
+| **EmailJS (optional)** | Contact form submission (if connected) |
+| **Vite** / CRA         | Fast dev environment                   |
+
+---
+
+
+---
+
+## 🔍 AI Usage Report
+
+### 🧠 AI Tools Used
+
+- **ChatGPT**: UI design suggestions, animation implementation, prompt-based component generation
+- **GitHub Copilot**: Inline auto-completion for form handling, map loops, classNames, props
+- **v0.dev**: Generated layout structures and visual inspiration
+
+### 📋 Sample Prompts Used
+
+1. `"Create an animated pricing calculator in React with Framer Motion"`
+2. `"Build a responsive FAQ accordion component in React using Tailwind CSS"`
+3. `"Give me a Hero section with video background and CTAs using Tailwind + Framer Motion"`
+
+### ⚖️ AI vs Manual Contribution
+
+| Task                             | Method       | %
+|----------------------------------|--------------|----|
+| Component skeletons              | AI-assisted  | 30%
+| Layout design & animations       | Manual + AI  | 40%
+| Styling, customizations & polish | Manual       | 30%
+
+> AI was used to speed up generation and experimentation, while all design, structure, and polish were manually reviewed and refined.
+
+---
+
+## 📈 Performance Optimization
+
+- ✅ Lazy-loaded images and video
+- ✅ Mobile-first layout
+- ✅ No unnecessary dependencies
+- ✅ Minimal and optimized build using Vite (or CRA)
+
+---
+
+## 💬 How to Run Locally
+
+```bash
+git clone https://github.com/SatynarayanMaurya/Landing-Page-ADmyBRAND.git
+cd Landing-Page-ADmyBRAND
+npm install
+npm run dev
+
+
